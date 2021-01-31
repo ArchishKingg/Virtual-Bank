@@ -2,7 +2,7 @@ package Java;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 import java.util.Random;
-public class VirtualBankAssistant {
+public class VirtualBank {
     static Scanner s = new Scanner(System.in);    
     static Random r = new Random();
     static String name,gender,greetm = "Sir!",greetf = "Mam!";
